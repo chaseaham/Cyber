@@ -23,7 +23,7 @@
   - [CySA+](Link)
   - [Cloud Security](Link)
 
-    <h2> 🐍 Data Analytics</h2>
+  <h2> R Data Analytics</h2>
    - [Repository](link)
     
 <h2> 🤳 Connect with me:</h2>

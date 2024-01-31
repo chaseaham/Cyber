@@ -1,6 +1,6 @@
-# Cyber
+# Cybersecurity and Intelligence
 
-<h1>Hi, I'm AL! <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/alexanderhchase/)"> </a>
+<h1>Hi, I'm AL! I am a Military Veteran and former tradesman pivoting into cybersecurity and intelligence. <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/alexanderhchase/)"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 

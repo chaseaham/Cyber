@@ -22,6 +22,9 @@
   - [Security+](Link)
   - [CySA+](Link)
   - [Cloud Security](Link)
+
+    <h2> 🐍 Data Analytics</h2>
+   - [Repository](link)
     
 <h2> 🤳 Connect with me:</h2>
 

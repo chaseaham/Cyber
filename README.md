@@ -29,4 +29,4 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: httpss://www.linkedin.com/in/alexanderhchase

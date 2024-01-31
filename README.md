@@ -13,6 +13,7 @@
  - [Link Title](Link)
 
   <h2> 🐍 Python Projects</h2>
+  - [Link Title]([Link](https://github.com/chaseaham/Python)
   
 <h2>📜 Certifications:</h2>
 [images coming soon]

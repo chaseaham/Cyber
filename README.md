@@ -13,11 +13,11 @@
  - [Link Title](Link)
   
 <h2>📜 Certifications:</h2>
-
+[images coming soon]
   - [Network+](Link)
-  - [Example](Link)
-  - [Example](Link)
-  - [AZ-900](Link)
+  - [Security+](Link)
+  - [CySA+](Link)
+  - [Cloud Security](Link)
     
 <h2> 🤳 Connect with me:</h2>
 

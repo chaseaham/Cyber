@@ -11,6 +11,8 @@
 <h2>🛡️ Information Security Projects</h2>
 
  - [Link Title](Link)
+
+  <h2> 🐍 Python Projects</h2>
   
 <h2>📜 Certifications:</h2>
 [images coming soon]
